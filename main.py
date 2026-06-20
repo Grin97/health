@@ -10,7 +10,7 @@ from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton, ReplyKey
 logging.basicConfig(level=logging.INFO)
 
 # Инициализация бота (Замените на свой реальный токен!)
-BOT_TOKEN = "ВАШ_ТЕЛЕГРАМ_ТОКЕН"
+BOT_TOKEN = "8737734083:AAFNDtBKToC8St0V82oH76Btr5Cfhj5DOsA"
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
